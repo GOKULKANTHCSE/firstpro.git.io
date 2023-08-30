@@ -1,0 +1,14 @@
+body{
+    font-size: 20px;
+}
+
+p{
+    font-size: 24px;
+}
+
+table,tr,th,td,caption{
+    border: 3px solid#000000;
+    font-family:'Times New Roman', Times, serif;
+    padding: 0.5em;
+    border-collapse: collapse;
+}
